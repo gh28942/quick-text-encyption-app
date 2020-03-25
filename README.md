@@ -9,6 +9,8 @@ An Android app that provides secure, user-friendly AES-encryption.
 <li>Implements the <a href="https://github.com/gh28942/Android-default-offline-CrossPromo-Ad">offline ad</a>.</li>
 </ul>
 
+<hr>
+
 <div class="" style="max-width: 45%;max-height: 45%;display: inline-block;">
 	<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg" width="45%" align="middle">
 </div>
