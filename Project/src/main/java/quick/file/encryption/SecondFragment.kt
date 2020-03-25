@@ -33,7 +33,7 @@ class SecondFragment : Fragment() {
         //load ad (50:50 chance)
         randomNumberShowAd = Math.random() > 0.5
         if(randomNumberShowAd) {
-            tappxInterstitial = TappxInterstitial(context, "pub-52848-android-1044")
+            tappxInterstitial = TappxInterstitial(context, "YOUR_TAPPX_KEY_HERE")
             tappxInterstitial!!.setAutoShowWhenReady(false)
             tappxInterstitial!!.setListener(object : TappxInterstitialListener {
                 override fun onInterstitialLoaded(tappxInterstitial: TappxInterstitial) {
