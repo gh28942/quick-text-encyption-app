@@ -10,7 +10,7 @@ An Android app that provides secure, user-friendly AES-encryption.
 </ul>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg">
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg" width="40%">
 <br>DESCRIPTION.</br>
 <br><br>
 
@@ -33,3 +33,5 @@ An Android app that provides secure, user-friendly AES-encryption.
 <img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr5.jpg">
 <br>DESCRIPTION.</br>
 <br><br>
+
+</p>
