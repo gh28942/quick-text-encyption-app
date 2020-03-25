@@ -1,4 +1,4 @@
-# quick-text-encyption-app
+# Quick Text Encyption (Android App)
 An Android app that provides secure, user-friendly AES-encryption.
 
 <ul>
