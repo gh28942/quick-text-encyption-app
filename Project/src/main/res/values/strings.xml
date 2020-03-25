@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Text Encryption</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Text Encryption</string>
+    <string name="second_fragment_label">Result</string>
+    <string name="previous">Previous</string>
+
+    <string name="text_copied">Text copied to clipboard!</string>
+    <string name="copied_text">Copied Text</string>
+    <string name="select_file">Select a file</string>
+    <string name="encr_error">Encryption error</string>
+    <string name="encr_error_msg">Could not process text.\n\nPlease check if your key is valid. \n\n</string>
+    <string name="copy_to_clipboard">Copy to clipboard or save the result.</string>
+    <string name="your_result_will_appear_here">Your result will appear here… (Encrypted and decrypted text)</string>
+    <string name="pw_hint_info">You can add a hint to what your password is or where to find it here. I\'d recommend storing your digital password in a safe physical location.</string>
+    <string name="pw_hint_texthint">type a password hint here…</string>
+    <string name="back">Back</string>
+    <string name="copy">Copy</string>
+    <string name="add_your_key">Add your key (password) and text to encrypt.</string>
+    <string name="add_your_key_here">key</string>
+    <string name="type_in_text_to_encr">type in text to encrypt or decrypt …</string>
+    <string name="clear">Clear</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="tos_question">Do you agree to the Terms of Service (TOS) and the Privacy Policy? \nYou can find them here: </string>
+    <string name="tos_agree">I agree</string>
+    <string name="tos_thanks">Thank you!</string>
+    <string name="tos_no">No</string>
+    <string name="tos_title">Privacy Policy and TOS</string>
+    <string name="salt">salt</string>
+
+    <!-- Strings used in the offline ad -->
+    <string name="ad_advertisement" translatable="false">advertisement</string>
+    <string name="ad_app_logo" translatable="false">App Logo</string>
+    <string name="ad_app_name" translatable="false">Fitness Alarm Clock</string>
+    <string name="ad_text" translatable="false">This app knows how to wake you up. Get up and stay fit - with the Fitness Alarm Clock!</string>
+    <string name="ad_download_app" translatable="false">Download App</string>
+    <string name="ad_download" translatable="false">download</string>
+</resources>

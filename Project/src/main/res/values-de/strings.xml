@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="first_fragment_label">Text Verschlüsselung</string>
+    <string name="second_fragment_label">Ergebnis</string>
+    <string name="previous">Zurück</string>
+    <string name="text_copied">Text in Zwischenablage kopiert!</string>
+    <string name="copied_text">Text kopiert</string>
+    <string name="select_file">Wähle eine Datei</string>
+    <string name="encr_error">Verschlüsselungs-Fehler</string>
+    <string name="encr_error_msg">Textverarbeitung abgebrochen. Bitte prüfe, ob der Schlüssel korrekt ist.</string>
+    <string name="copy_to_clipboard">Kopiere den Text in die Ablage oder speichere das Ergebnis.</string>
+    <string name="your_result_will_appear_here">Das Ergebnis wird hier erscheinen… (Ver- und entschlüsselter Text)</string>
+    <string name="pw_hint_info">Hier kannst du einen Hinweis hinzufügen, wie dein Passwort lautet oder wo du es findest. Ich empfehle, dein digitales Passwort an einem sicheren Ort offline aufzubewahren.</string>
+    <string name="copy">Kopieren</string>
+    <string name="back">Zurück</string>
+    <string name="pw_hint_texthint">füge hier einen Passwort-Hinweis hinzu…</string>
+    <string name="add_your_key">Füge deinen Schlüssel (Passwort) und Text zum Verschlüsseln hinzu.</string>
+    <string name="add_your_key_here">Schlüssel</string>
+    <string name="type_in_text_to_encr">Text zum ver-/entschlüsseln…</string>
+    <string name="clear">Löschen</string>
+    <string name="encrypt">Verschlüsseln</string>
+    <string name="decrypt">Entschlüsseln</string>
+    <string name="tos_question">Stimmst du den Terms of Service (TOS) und der Privacy Policy zu? \\nDu kannst beide hier lesen:</string>
+    <string name="tos_title">Privacy Policy und TOS</string>
+    <string name="tos_agree">Zustimmen</string>
+    <string name="tos_no">Nein</string>
+    <string name="tos_thanks">Danke!</string>
+    <string name="salt">Salt</string>
+</resources>
