@@ -14,29 +14,25 @@ See the app in use here: https://www.youtube.com/watch?v=HzaTcS1yrA0
 
 <hr>
 
-<div class="" style="max-width: 45%;max-height: 45%;display: inline-block;">
-	<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg" width="45%" align="middle">
-</div>
-<p>Enter key, salt and text</p>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg" width="30%">
+<br>Enter key, salt and text</br>
+<br>
+</p>
 <hr>
-
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-<div class="" style="max-width: 50%;max-height: 50%;display: inline-block;">
-<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr2.jpg" width="45%" align="left">
-<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr3.jpg" width="45%" align="right">
-</div>
-<div class="" style="max-width: 50%;max-height: 50%;display: inline-block;">
-<p align="middle">Encryption</p>
-</div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr2.jpg" width="30%">
+<br>
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr3.jpg" width="30%">
+<br>Encryption</br>
+<br>
+</p>
 <hr>
-
-<div id="banner" style="overflow: hidden;justify-content:space-around;">
-<div class="" style="max-width: 50%;max-height: 50%;display: inline-block;">
-<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr4.jpg" width="45%" align="left">
-<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr5.jpg" width="45%" align="right">
-</div>
-<div class="" style="max-width: 50%;max-height: 50%;display: inline-block;">
-<p align="middle">Decryption</p>
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr4.jpg" width="30%">
+<br>
+<img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr5.jpg" width="30%">
+<br>Decryption</br>
+<br>
+</p>
+<hr>
