@@ -9,11 +9,13 @@ An Android app that provides secure, user-friendly AES-encryption.
 <li>Implements the <a href="https://github.com/gh28942/Android-default-offline-CrossPromo-Ad">offline ad</a>.</li>
 <li>Load & save (encrypted/clear) text files</li>
 </ul>
-
+<br>
 See the app in use here: https://www.youtube.com/watch?v=HzaTcS1yrA0
+<br>
 
-<hr>
+## Screenshots
 
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr1.jpg" width="30%">
 <br>Enter key, salt and text</br>
