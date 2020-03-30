@@ -20,6 +20,7 @@ See the app in use here: https://www.youtube.com/watch?v=HzaTcS1yrA0
 <br>
 </p>
 <hr>
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr2.jpg" width="30%">
 <br>
@@ -28,6 +29,7 @@ See the app in use here: https://www.youtube.com/watch?v=HzaTcS1yrA0
 <br>
 </p>
 <hr>
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/gh28942/quick-text-encyption-app/master/scr/scr4.jpg" width="30%">
 <br>
