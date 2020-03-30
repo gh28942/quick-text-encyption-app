@@ -11,7 +11,7 @@ An Android app that provides secure, user-friendly AES-encryption.
 </ul>
 <br>
 See the app in use here: https://www.youtube.com/watch?v=HzaTcS1yrA0
-<br>
+<br><br><br>
 
 ## Screenshots
 
